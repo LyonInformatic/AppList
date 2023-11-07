@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YourList</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="Text_title">Enter your item</string>
+    <string name="Text_label">Name item</string>
+    <string name="Text_box">No items</string>
+</resources>

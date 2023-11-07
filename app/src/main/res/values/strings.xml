@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TuLista</string>
+    <string name="button_add">Agregar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="Text_title">Ingresa tu artículo</string>
+    <string name="Text_label">Nombre del artículo</string>
+    <string name="Text_box">No hay artículos</string>
+</resources>
